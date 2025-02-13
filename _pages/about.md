@@ -21,7 +21,7 @@ My research interests are:
 - Machine Learning & Deep Learning
 
 ## Industry  
-Currently, I work at [**YOUKI GmbH**](https://www.youki.de/), where I am involved in the development of innovative mobile and web applications. As a **Software Engineer**, I focus on creating scalable, high-performance solutions across various platforms, delivering products that are both reliable and efficient.
+Currently, I work at [**YOUKI GmbH**](https://www.youki.ai/), where I am involved in the development of innovative mobile and web applications. As a **Software Engineer**, I focus on creating scalable, high-performance solutions across various platforms, delivering products that are both reliable and efficient.
 
 I specialize in **React** for building interactive, high-performance web applications, and **React Native** for crafting seamless cross-platform mobile applications. These technologies enable me to deliver fluid user experiences across different devices while maintaining a clean, scalable, and maintainable codebase. With each project, I aim to create solutions that not only meet client needs but also set new standards for performance and usability.
 
